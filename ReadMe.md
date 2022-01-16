@@ -26,6 +26,7 @@ client.login("bot token here!");***
 })***
 ***
 ***All Operations***
+
 ***const TopicBotList = require('TopicBotList.js');
 const { Client } = require("discord.js");
 const client = new Client();
