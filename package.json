@@ -1,14 +1,14 @@
 {
-  "name": "vcodes.js",
+  "name": "topiclist",
   "version": "2.0.0",
-  "description": "vcodes.xyz official module",
+  "description": "topiclist api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vcodes-xyz/vcodes.js"
+    "url": "https://github.com/Miya25/TopicList-API"
   },
   "keywords": [
     "bot",
